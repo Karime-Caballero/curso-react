@@ -88,7 +88,7 @@ function Home() {
           </Grid>
         ))}
       </Grid>
-      <h1>Hola</h1>
+      
     </div>
   );
 }
